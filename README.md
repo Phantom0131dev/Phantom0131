@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on a my JeyProject!
 - 🌱 I’m currently learning JavaScript and Node.js
+- 🧑‍🎓  I’m owner Chake-Network 
 
 ### Connect with me:
 
