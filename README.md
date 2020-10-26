@@ -1,7 +1,5 @@
 ### Hi there, I'm Nikita - aka [Phantomdev]👋
 
-## I'm a ukrainian Developer
-
 - 🔭 I’m currently working on a my JeyProject!
 - 🌱 I’m currently learning JavaScript and Node.js
 
