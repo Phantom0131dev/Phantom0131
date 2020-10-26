@@ -1,8 +1,8 @@
 ### Hi there, I'm Nikita - aka [Phantomdev]👋
 
-## I'm a ukrainian Developer and Owner of the Jey project!
+## I'm a ukrainian Developer
 
-- 🔭 I’m currently working on a JeyProject!
+- 🔭 I’m currently working on a my JeyProject!
 - 🌱 I’m currently learning JavaScript and Node.js
 
 ### Connect with me:
