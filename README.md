@@ -1,8 +1,8 @@
 ### Hi there, I'm Nikita - aka [Phantomdev]👋
 
-- 🔭 I’m currently working on a my JMusic bot!
+- 🔭 I’m currently working on a my Jey bot!
 - 🌱 I’m currently learning JavaScript and Node.js
-- 🧑‍🎓  I’m owner Chake-Network 
+- 🧑‍🎓  I’m owner Chake-Network and my JMusic bot
 
 ### Connect with me:
 
