@@ -35,3 +35,14 @@
 [vk]: https://vk.com/phantom0131
 [discord]: https://discord.gg/BsdqtHe
 [github]: https://github.com/phantom0131
+
+My server discord 
+<div style="width: 100%; display: flex">
+   <div style="width: 50%">
+    <a href="https://neppedcord.top/r/ds"><img src="<div style="width: 100%; display: flex">
+   <div style="width: 50%">
+    <a href="https://neppedcord.top/r/ds"><img src="https://invidget.switchblade.xyz/5dVTnpC?theme=dark" /></a>
+  </div>
+" /></a>
+  </div>
+
