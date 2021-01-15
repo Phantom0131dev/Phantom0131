@@ -36,10 +36,9 @@
 [discord]: https://discord.gg/BsdqtHe
 [github]: https://github.com/phantom0131
 
-My server discord 
+
 <div style="width: 100%; display: flex">
    <div style="width: 50%">
-    <a href="https://invidget.switchblade.xyz/BsdqtHe?theme=dark"><img src="<div style="width: 100%; display: flex">
    <div style="width: 50%">
     <a href="https://invidget.switchblade.xyz/BsdqtHe?theme=dark"><img src="https://invidget.switchblade.xyz/BsdqtHe?theme=dark" /></a>
   </div>
