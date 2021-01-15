@@ -39,9 +39,9 @@
 My server discord 
 <div style="width: 100%; display: flex">
    <div style="width: 50%">
-    <a href="https://neppedcord.top/r/ds"><img src="<div style="width: 100%; display: flex">
+    <a href="https://invidget.switchblade.xyz/BsdqtHe?theme=dark"><img src="<div style="width: 100%; display: flex">
    <div style="width: 50%">
-    <a href="https://neppedcord.top/r/ds"><img src="https://invidget.switchblade.xyz/BsdqtHe?theme=dark" /></a>
+    <a href="https://invidget.switchblade.xyz/BsdqtHe?theme=dark"><img src="https://invidget.switchblade.xyz/BsdqtHe?theme=dark" /></a>
   </div>
 </a>
   </div>
